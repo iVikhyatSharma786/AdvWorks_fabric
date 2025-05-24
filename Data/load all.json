@@ -1,0 +1,42 @@
+[
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "sink_folder" : "AdventureWorks_Product_Categories",
+        "sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "sink_folder" : "AdventureWorks_Calendar",
+        "sink_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "sink_folder" : "AdventureWorks_Customers",
+        "sink_file" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "sink_folder" : "Product_Subcategories",
+        "sink_file" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "sink_folder" : "AdventureWorks_Products",
+        "sink_file" : "AdventureWorks_Products.csv"
+    },
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "sink_folder" : "AdventureWorks_Sales_2016",
+        "sink_file" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "sink_folder" : "AdventureWorks_Sales_2017",
+        "sink_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "vikhyat_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "sink_folder" : "AdventureWorks_Territories",
+        "sink_file" : "AdventureWorks_Territories.csv"
+    }
+]
